@@ -2,7 +2,7 @@
 Status it
 
 # To build from cmd
-mvn clean buidld
+mvn clean build
 
 # To run in cmd line 
 mvn spring-boot:run
@@ -12,4 +12,5 @@ clean build
 
 # To run using eclipse
 spring-boot:run
+
 
